@@ -1,0 +1,23 @@
+4.
+Scrape and crawl tiktok to build  list of influencers that have greater than 5000  followers.
+ This should be around 2 million Us profiles. We need like, tiktok user name, followers count, 
+region, category, signature, email (regex from signature), list of videos, list of followers and 
+their region and also determine their age.
+
+
+5.
+Create a way to get TikTok data on a recurring basis for Tiktok profiles, followers, video data, total likes, comments, 
+shares, current signature
+--Locate an api that does this or scrape tiktok and create function(s) that grabs ALL updated data and store in the database.
+ We need a history of followers and like and comments by date each time it is updates as well as the updated data.
+--We need this information to measure growth and engagement rate.
+
+
+
+
+
+
+
+5 pe kya karna hai? profiles ko monitor karna hai 
+sabse accaha way hai rapid use karo pura 
+
