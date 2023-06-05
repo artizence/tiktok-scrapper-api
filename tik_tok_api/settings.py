@@ -30,7 +30,7 @@ DB = False # True -> PostgressSQL, or False -> Sqlite DB
 
 # we are using a sqlite db
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
